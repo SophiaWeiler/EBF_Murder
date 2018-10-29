@@ -1,1 +1,2 @@
 # EBF_Murder_Game
+You need to have Python 3.6, as well as Python Imaging Library, downloaded in order for the code to run. This was coded specifically on Spyder, which can be found in the Anaconda Navigator Library, so it has been made to run specifically on that console. There are occasionally problems with some of the imported modules or pre-defined functions on other consoles so it is recomended that it be run on the Spyder console.
